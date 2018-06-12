@@ -26,7 +26,6 @@ learning block by building one
     pipenv run python blockchain.py
     
     
-    pipenv run python blockchain.py -p 5001
 + #退出虚拟环境
 
 
